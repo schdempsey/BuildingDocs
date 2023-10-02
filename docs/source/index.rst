@@ -9,6 +9,7 @@ Welcome to {PROJECT_NAME}'s documentation!
 
    introduction
    getting_started
+   my_rst_doc
 
 
 Indices and tables
